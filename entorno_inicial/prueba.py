@@ -1,1 +1,1 @@
- print(" estatus")
+print " estatus"
